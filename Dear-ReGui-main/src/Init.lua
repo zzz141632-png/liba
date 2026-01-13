@@ -20,7 +20,7 @@ local ReGui = {
 
 	--// Configuration
 	Debug = false,
-	PrefabsId = 71968920594655,
+	PrefabsId = 75453830754888,
 	DefaultTitle = "ReGui",
 	ContainerName = "ReGui",
 	DoubleClickThreshold = 0.3,
